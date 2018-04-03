@@ -5,7 +5,7 @@ dd(x, y):
 
 def subtract(x, y):
     """Subtract Function"""
-    return x - y
+    pass
 
 
 def multiply(x, y):
